@@ -9,4 +9,5 @@
 
 rootProject.name = 'otusJavaYakovlev'
 include 'L01-gradle'
+include 'HW02-DIY-ArrayList'
 

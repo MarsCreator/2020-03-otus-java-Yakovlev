@@ -1,3 +1,5 @@
+package ru.otus;
+
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
 
